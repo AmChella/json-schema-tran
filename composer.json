@@ -3,7 +3,7 @@
     "description": "Schema, Validator, Json",
     "type": "library",
     "version": "v0.0.1",
-    "license": "TNQ License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Chellapandi S",
