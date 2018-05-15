@@ -1,12 +1,12 @@
 {
-    "name": "json/schema-validator",
+    "name": "json/schema-tran",
     "description": "Schema, Validator, Json",
     "type": "library",
     "license": "MIT License",
     "authors": [
         {
             "name": "Chellapandi S",
-            "email": "chellapandi.s@tnqsoftware.co.in"
+            "email": "2chellaa.s@gmail.com"
         }
     ],
     "minimum-stability": "stable",
