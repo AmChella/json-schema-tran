@@ -1,3 +1,9 @@
+
+[![Latest Stable Version](https://poser.pugx.org/phpjson/schema-tran/v/stable)](https://packagist.org/packages/phpjson/schema-tran)
+[![Total Downloads](https://poser.pugx.org/phpjson/schema-tran/downloads)](https://packagist.org/packages/phpjson/schema-tran)
+[![Latest Unstable Version](https://poser.pugx.org/phpjson/schema-tran/v/unstable)](https://packagist.org/packages/phpjson/schema-tran)
+[![License](https://poser.pugx.org/phpjson/schema-tran/license)](https://packagist.org/packages/phpjson/schema-tran)
+
 This library provides JSON schema validation using the schema found at http://json-schema.org. 
 Note that it is not yet feature complete, but does support basic validation. 
 ## Install
