@@ -1,7 +1,7 @@
 {
     "name": "phpjson/schema-tran",
     "description": "Schema, Validator, Json",
-    "type": "library,
+    "type": "library",
     "version": "v0.0.1",
     "license": "MIT License",
     "authors": [
