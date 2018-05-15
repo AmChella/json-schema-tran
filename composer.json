@@ -1,0 +1,20 @@
+{
+    "name": "json/schema-validator",
+    "description": "Schema, Validator, Json",
+    "type": "library",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Chellapandi S",
+            "email": "chellapandi.s@tnqsoftware.co.in"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Json\\Schema": "app/",
+            "Json\\Schema\\Exception": "app/"
+        }
+    }
+}

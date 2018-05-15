@@ -1,0 +1,42 @@
+{
+    "description": "Schema for Mathml to SVG",
+    "type": "object",
+    "properties": {
+        "math": {
+            "type": "object",
+            "required": true,
+            "properties": {
+                "mml": {
+                    "type": "string",
+                    "required": true
+                },
+                "fontSize": {
+                    "type": "string",
+                    "required": true
+                },
+                "fontFamily": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        },
+        "uuid": {
+            "type": "string",
+            "required": true
+        },
+        "callback_url": {
+            "type": "object",
+            "required": true,
+            "properties": {
+                "success": {
+                    "type": "string",
+                    "required": true
+                },
+                "failure": {
+                    "type": "string",
+                    "required": true
+                }
+            }
+        }
+    }
+}
