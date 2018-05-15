@@ -1,5 +1,5 @@
 {
-    "name": "json/schema-tran",
+    "name": "phpjson/schema-tran",
     "description": "Schema, Validator, Json",
     "type": "library",
     "license": "MIT License",
