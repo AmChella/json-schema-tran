@@ -1,7 +1,7 @@
 This library provides JSON schema validation using the schema found at http://json-schema.org. 
 Note that it is not yet feature complete, but does support basic validation. 
 ## Install
-- composer require 
+- composer require phpjson/schema-tran
 
 ## Requirements
 - PHP 5.3 or greater (requires namespace and closure support)
